@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212598882670",
+    "project_id": "beaskit",
+    "storage_bucket": "beaskit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212598882670:android:91fab2d731beda2fe2c17f",
+        "android_client_info": {
+          "package_name": "com.example.beaskit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcoVbdbiS1BkYXpGuSMkuTtoifWxpRH9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
